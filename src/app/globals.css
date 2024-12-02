@@ -16,6 +16,19 @@
 
 body {
   color: var(--foreground);
-  background: var(--background);
+  /* background-color: #B2D8D8; */
+  background-color: #CDE7E5;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn{
+  @apply bg-[#074643] text-[#ffffff] py-2 px-4 rounded inline-block mt-10 font-bold border-[2px] border-[#074643] hover:bg-transparent hover:text-[#FFD700] transition duration-200
+}
+
+.button{
+  @apply bg-[#074643] text-[#ffffff] py-2 px-4 rounded inline-block mt-10 font-bold border-[2px] border-[#074643] hover:bg-transparent hover:text-[#080808] transition duration-200
+}
+
+.inputStyle{
+  @apply outline-[#074643] border-black border rounded-[5px] px-4 py-2 w-[100%]
 }
