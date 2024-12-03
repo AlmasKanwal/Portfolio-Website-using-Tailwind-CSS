@@ -17,11 +17,11 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, toggleSidebar }) => {
 
       <div className='flex flex-col gap-4 text-[24px]'>
       <Link href="/" className="text-[#ffffff] hover:text-[#FFD700]">Home</Link>
-          <Link href="#" className="text-[#ffffff] hover:text-[#FFD700]">About</Link>
-          <Link href="#" className="text-[#ffffff] hover:text-[#FFD700]">Services</Link>
-          <Link href="#" className="text-[#ffffff] hover:text-[#FFD700]">Skills</Link>
-          <Link href="#" className="text-[#ffffff] hover:text-[#FFD700]">Projects</Link>
-          <Link href="#" className="text-[#ffffff] hover:text-[#FFD700]">Contact</Link>
+          <Link href="#about" className="text-[#ffffff] hover:text-[#FFD700]">About</Link>
+          <Link href="#services" className="text-[#ffffff] hover:text-[#FFD700]">Services</Link>
+          <Link href="#skills" className="text-[#ffffff] hover:text-[#FFD700]">Skills</Link>
+          <Link href="#projects" className="text-[#ffffff] hover:text-[#FFD700]">Projects</Link>
+          <Link href="#contact" className="text-[#ffffff] hover:text-[#FFD700]">Contact</Link>
       </div>
       
     </div>

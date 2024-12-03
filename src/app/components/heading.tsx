@@ -7,6 +7,6 @@ const Heading = ({ title }: { title: string }) => {
       <div className='bg-[#074436] h-[2px] w-[50px] translate-y-1'></div>
     </div>
   );
-};
+}
 
 export default Heading;

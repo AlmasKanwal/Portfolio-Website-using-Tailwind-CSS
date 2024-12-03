@@ -9,7 +9,7 @@ import Button from "./button";
 
 export default function About(){
     return(
-<section className="container mx-auto py-10 px-4">
+<section id="about" className="container mx-auto py-10 px-4">
 <Heading title="About Me"/>
 <div className="grid grid-cols-1 md:grid-cols-2 gap-[60px]">
     <div>

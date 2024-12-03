@@ -14,11 +14,11 @@ const Navbar = ({ toggleSidebar }: NavbarProps) => {
 
         <div className="hidden md:flex gap-6">
           <Link href="/" className="text-[#ffffff] hover:text-[#FFD700]">Home</Link>
-          <Link href="#" className="text-[#ffffff] hover:text-[#FFD700]">About</Link>
-          <Link href="#" className="text-[#ffffff] hover:text-[#FFD700]">Services</Link>
-          <Link href="#" className="text-[#ffffff] hover:text-[#FFD700]">Skills</Link>
-          <Link href="#" className="text-[#ffffff] hover:text-[#FFD700]">Projects</Link>
-          <Link href="#" className="text-[#ffffff] hover:text-[#FFD700]">Contact</Link>
+          <Link href="#about" className="text-[#ffffff] hover:text-[#FFD700]">About</Link>
+          <Link href="#services" className="text-[#ffffff] hover:text-[#FFD700]">Services</Link>
+          <Link href="#skills" className="text-[#ffffff] hover:text-[#FFD700]">Skills</Link>
+          <Link href="#projects" className="text-[#ffffff] hover:text-[#FFD700]">Projects</Link>
+          <Link href="#contact" className="text-[#ffffff] hover:text-[#FFD700]">Contact</Link>
         </div>
 
         <Link href="https://milestones1-2-flame.vercel.app/" target="_blank" rel="noopener noreferrer" className="hidden md:flex border border-[#FFD700] font-bold px-4 py-1 text-[#ffffff] rounded-[6px] items-center gap-2 hover:bg-[#FFD700] hover:text-[#080808] duration-200">

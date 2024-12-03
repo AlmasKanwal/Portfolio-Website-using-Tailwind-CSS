@@ -4,7 +4,7 @@ import { MdOpenInNew } from "react-icons/md";
 
 export default function Projects(){
     return(
-<section className="container mx-auto py-10 px-4">
+<section id="projects" className="container mx-auto py-10 px-4">
 <Heading title="Projects" />
 
 <div className="grid grid-cols-3 gap-4">

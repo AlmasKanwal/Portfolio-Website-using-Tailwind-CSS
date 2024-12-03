@@ -6,7 +6,7 @@ import { FaArtstation } from "react-icons/fa";
 
 export default function Services() {
   return (
-    <section className="container mx-auto py-10 px-4">
+    <section id="services" className="container mx-auto py-10 px-4">
       <Heading title="What I do" />
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">

@@ -9,7 +9,7 @@ export default function Contact(){
       };
 
     return(
-<section className="container mx-auto px-4 ">
+<section id="contact" className="container mx-auto px-4 ">
 <Heading title="Contact Us"/>
 
 <form className="flex flex-col gap-8" onSubmit={handleSubmit}>
