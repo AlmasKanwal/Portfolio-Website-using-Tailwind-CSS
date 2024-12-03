@@ -1,4 +1,5 @@
-import { AiOutlineGif, AiOutlineGift } from "react-icons/ai";
+import Image from "next/image";
+import {AiOutlineGift } from "react-icons/ai";
 import Heading from "./heading";
 import { FiBookOpen } from "react-icons/fi";
 import { BsGlobe2 } from "react-icons/bs";
@@ -12,7 +13,7 @@ export default function About(){
 <Heading title="About Me"/>
 <div className="grid grid-cols-1 md:grid-cols-2 gap-[60px]">
     <div>
-        <img src="img-1.jpg" alt="picture" width={300} height={70}></img>
+        <Image src="/img-1.jpg" alt="picture" width={300} height={70}/>
     </div>
 
     <div>
@@ -65,7 +66,7 @@ export default function About(){
         </div>
 
         <div className="max-w-[800px]">
-<h2 className="font-bold mt-16 mb-10">I'm Almas Kanwal & GIAIC Student</h2>
+<h2 className="font-bold mt-16 mb-10">I&apos;m Almas Kanwal & GIAIC Student</h2>
 <p className="text-[#080808]">I am an enthusiastic learner with a background in Computer Science,
             currently exploring web development as a beginner. I aim to apply my
             growing skills in a dynamic organization, while continuously

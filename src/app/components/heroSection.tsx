@@ -1,8 +1,4 @@
-"use client";
-
 import Button from "./button";
-
-import Image from "next/image";
 import TypeWriter from "typewriter-effect";
 
 export default function HeroSection() {
@@ -11,7 +7,7 @@ export default function HeroSection() {
       <div className="container mx-auto px-4">
         <div className="max-w-[450px] text-[#FFD700] flex flex-col gap-10">
           <div>
-            <h1 className="text-5xl md:text-4xl sm:text-3xl font-bold">I'm Almas Kanwal</h1>
+            <h1 className="text-5xl md:text-4xl sm:text-3xl font-bold">I&apos;m Almas Kanwal</h1>
             <h4 className="text-[#ffffff] text-xl md:text-lg mt-4">
               <TypeWriter
                 options={{
