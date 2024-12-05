@@ -11,65 +11,65 @@ export default function Skills(){
 
 <div>
     <p className="font-bold">Video Editing</p>
-    <div className="relative bg-[#5e5555] h-[4px] mt-2">
-        <div className="bg-[#074436] absolute h-[4px] w-[95%]"></div>
+    <div className="relative bg-[#080808] h-[4px] mt-2">
+        <div className="bg-[#27a98b] absolute h-[4px] w-[95%]"></div>
     </div>
 </div>
 
 <div>
     <p className="font-bold">YouTube Content Creation/Management</p>
-    <div className="relative bg-[#5e5555] h-[4px] mt-2">
-        <div className="bg-[#074436] absolute h-[4px] w-[90%]"></div>
+    <div className="relative bg-[#080808] h-[4px] mt-2">
+        <div className="bg-[#27a98b] absolute h-[4px] w-[90%]"></div>
     </div>
 </div>
 
 <div>
     <p className="font-bold">Microsoft Office</p>
-    <div className="relative bg-[#5e5555] h-[4px] mt-2">
-        <div className="bg-[#074436] absolute h-[4px] w-[70%]"></div>
+    <div className="relative bg-[#080808] h-[4px] mt-2">
+        <div className="bg-[#27a98b] absolute h-[4px] w-[70%]"></div>
     </div>
 </div>
 
 <div>
     <p className="font-bold">Graphic Designing</p>
-    <div className="relative bg-[#5e5555] h-[4px] mt-2">
-        <div className="bg-[#074436] absolute h-[4px] w-[70%]"></div>
+    <div className="relative bg-[#080808] h-[4px] mt-2">
+        <div className="bg-[#27a98b] absolute h-[4px] w-[70%]"></div>
     </div>
 </div>
 
 
 <div>
     <p className="font-bold">2D Animation</p>
-    <div className="relative bg-[#5e5555] h-[4px] mt-2">
-        <div className="bg-[#074436] absolute h-[4px] w-[75%]"></div>
+    <div className="relative bg-[#080808] h-[4px] mt-2">
+        <div className="bg-[#27a98b] absolute h-[4px] w-[75%]"></div>
     </div>
 </div>
 
 <div>
     <p className="font-bold">HTML</p>
-    <div className="relative bg-[#5e5555] h-[4px] mt-2">
-        <div className="bg-[#074436] absolute h-[4px] w-[80%]"></div>
+    <div className="relative bg-[#080808] h-[4px] mt-2">
+        <div className="bg-[#27a98b] absolute h-[4px] w-[80%]"></div>
     </div>
 </div>
 
 <div>
     <p className="font-bold">CSS(Continuing Learning)</p>
-    <div className="relative bg-[#5e5555] h-[4px] mt-2">
-        <div className="bg-[#074436] absolute h-[4px] w-[70%]"></div>
+    <div className="relative bg-[#080808] h-[4px] mt-2">
+        <div className="bg-[#27a98b] absolute h-[4px] w-[70%]"></div>
     </div>
 </div>
 
 <div>
     <p className="font-bold">TypeScript(Continuing Learning)</p>
-    <div className="relative bg-[#5e5555] h-[4px] mt-2">
-        <div className="bg-[#074436] absolute h-[4px] w-[50%]"></div>
+    <div className="relative bg-[#080808] h-[4px] mt-2">
+        <div className="bg-[#27a98b] absolute h-[4px] w-[50%]"></div>
     </div>
 </div>
 
 <div>
     <p className="font-bold">Next.js(Continuing Learning)</p>
-    <div className="relative bg-[#5e5555] h-[4px] mt-2">
-        <div className="bg-[#074436] absolute h-[4px] w-[25%]"></div>
+    <div className="relative bg-[#080808] h-[4px] mt-2">
+        <div className="bg-[#27a98b] absolute h-[4px] w-[25%]"></div>
     </div>
 </div>
 

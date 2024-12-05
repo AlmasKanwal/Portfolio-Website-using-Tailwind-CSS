@@ -9,7 +9,7 @@ interface SidebarProps {
 
 const Sidebar: React.FC<SidebarProps> = ({ isOpen, toggleSidebar }) => {
   return (
-    <div className={`w-screen h-screen ${isOpen ? "fixed" : "hidden"} top-0 left-0 bg-[#074436] z-10 text-[#ffffff] grid place-items-center`}>
+    <div className={`w-screen h-screen ${isOpen ? "fixed" : "hidden"} top-0 left-0 bg-[#074643] z-10 text-[#ffffff] grid place-items-center`}>
       
       <div className={`absolute top-0 right-0 mr-[30px] mt-[10px] text-[28px] hover:cursor-pointer`} onClick={toggleSidebar}>
         <IoClose />

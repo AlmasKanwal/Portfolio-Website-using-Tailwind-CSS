@@ -24,7 +24,7 @@ export default function HeroSection() {
           <div>
             <p className="text-[#ffffff]">Aspiring to utilize my academic background and passion for CS(Computer Science) to contribute effectively to a dynamic organization, while continuously learning and enhancing my skills to achieve professional growth and excellence.</p>
 
-            <Button link="#" text="learn more" className="btn"/>
+            <Button link="#about" text="learn more" className="btn"/>
           </div>
 
         </div>
